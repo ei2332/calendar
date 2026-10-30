@@ -1,6 +1,8 @@
-# PACE — タスク・負荷カレンダー
+# カレンダーアプリ(仮)
 
-PACEは、作業時間だけでなく身体・精神・認知の負荷も見ながら、予定を複数のシーンで比較・調整する静的Webアプリです。
+カレンダーアプリ(仮)は、作業時間だけでなく身体・精神・認知の負荷も見ながら、予定を複数のシーンで比較・調整する静的Webアプリです。
+
+**公開URL:** [https://calendar-dsr.pages.dev/](https://calendar-dsr.pages.dev/)
 
 > [!NOTE]
 > このプロジェクトでは、コード作成、改善、テスト、ドキュメント整備に生成AIを利用しています。最終的な仕様判断と公開判断はプロジェクト管理者が行います。
@@ -40,11 +42,12 @@ PACEは、作業時間だけでなく身体・精神・認知の負荷も見な�
 
 このブランチのルートにはビルド済みファイルが配置されています。一般的な静的ホスティングやnginxから、そのまま配信できます。
 
-GitHub Pagesを使う場合は、リポジトリの **Settings → Pages** で次を指定します。
+現在の公開先はCloudflare Pagesです。
 
-- Source: `Deploy from a branch`
-- Branch: `main`
-- Folder: `/(root)`
+- URL: [https://calendar-dsr.pages.dev/](https://calendar-dsr.pages.dev/)
+- Production branch: `main`
+- Build command: `exit 0`
+- Build output directory: `.`
 
 アセットURLは相対パスのため、ドメイン直下でも `/calendar/` のようなサブパスでも動作します。
 
@@ -56,7 +59,7 @@ JavaScript、Web Storage、CSS Gridを利用できる現行の主要ブラウザ
 
 表示フォントとしてDotGothic16を同梱しています。フォントのライセンスは [SIL Open Font License](licenses/DotGothic16-OFL.txt) を参照してください。
 
-アプリケーションコードについては、現時点でリポジトリ直下にライセンスファイルがありません。再利用・再配布の条件は、ライセンスが明示されるまでプロジェクト管理者へ確認してください。
+アプリケーションコードは [MIT License](LICENSE) で公開しています。
 
 ## フィードバック
 
