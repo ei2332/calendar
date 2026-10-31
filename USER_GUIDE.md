@@ -17,7 +17,7 @@
 
 画面の「＋」を選択します。
 
-<img src="./images/guide/01-open-add-menu.png"
+<img src="./images/comp_guide/01-open-add-menu.webp"
      alt="メニューのプラスボタンを選択する"
      width="360">
 
@@ -27,7 +27,7 @@
 
 「OK」を選択すると、現在の主シーンを元に副シーンが作成され、タスク追加画面が開きます。
 
-<img src="./images/guide/02-name-scene.png"
+<img src="./images/comp_guide/02-name-scene.webp"
      alt="副シーンの名前を入力して作成する"
      width="360">
 
@@ -45,7 +45,7 @@
 
 入力後に「保存」を選択すると、タスクが副シーンへ追加されます。
 
-<img src="./images/guide/03-add-task.png"
+<img src="./images/comp_guide/03-add-task.webp"
      alt="タスク名、期間、必要作業時間、負荷を入力して保存する"
      width="360">
 
@@ -59,7 +59,7 @@
 
 日付を選択すると、その日に配置されたタスクと、時間・身体・精神・認知の負荷を確認できます。
 
-<img src="./images/guide/04-check-load.png"
+<img src="./images/comp_guide/04-check-load.webp"
      alt="カレンダーでタスク名と負荷率を確認する"
      width="360">
 
@@ -69,13 +69,13 @@
 
 タスクの配置を調整したい場合は、メニューから「最適化」を開きます。
 
-<img src="./images/guide/05-open-optimization.png"
+<img src="./images/comp_guide/05-open-optimization.webp"
      alt="メニューから最適化画面を開く"
      width="360">
 
 最適化する対象シーンを選択し、「実行」を選びます。
 
-<img src="./images/guide/06-run-optimization.png"
+<img src="./images/comp_guide/06-run-optimization.webp"
      alt="対象シーンを選択して最適化を実行する"
      width="360">
 
@@ -89,13 +89,13 @@
 
 「シーン」を開き、目のボタンで比較したい2つのシーンを表示対象にします。
 
-<img src="./images/guide/07-select-scenes.png"
+<img src="./images/comp_guide/07-select-scenes.webp"
      alt="シーン画面で比較する2つのシーンを選択する"
      width="360">
 
 2つのシーンを表示すると、カレンダーがシーンごとに色分けされ、日ごとの負荷とタスクの違いを比較できます。
 
-<img src="./images/guide/08-compare-scenes.png"
+<img src="./images/comp_guide/08-compare-scenes.webp"
      alt="カレンダーで2つのシーンの負荷を比較する"
      width="360">
 
@@ -105,7 +105,7 @@
 
 採用する予定案が決まったら「シーン」を開き、対象となる副シーンのチェックボタンを選択します。
 
-<img src="./images/guide/09-apply-scene.png"
+<img src="./images/comp_guide/09-apply-scene.webp"
      alt="採用する副シーンを主シーンへ反映する"
      width="360">
 
@@ -113,7 +113,7 @@
 
 内容を確認して「OK」を選択してください。
 
-<img src="./images/guide/10-confirm-adopt-scene.png"
+<img src="./images/comp_guide/10-confirm-adopt-scene.webp"
      alt="副シーンを主シーンへ反映する確認画面"
      width="360">
 
