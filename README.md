@@ -1,3 +1,6 @@
+> [!NOTE]
+> このプロジェクトでは生成AIを設計や実装等に利用しております
+
 # カレンダーアプリ(仮)
 ## URL
 https://calendar-dsr.pages.dev/  
