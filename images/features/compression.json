@@ -1,0 +1,152 @@
+[
+  {
+    "file": "01-calendar.webp",
+    "pngBytes": 132582,
+    "webpBytes": 48434,
+    "pixelsIdentical": true
+  },
+  {
+    "file": "02-menu.webp",
+    "pngBytes": 134813,
+    "webpBytes": 48560,
+    "pixelsIdentical": true
+  },
+  {
+    "file": "03-scenes.webp",
+    "pngBytes": 135492,
+    "webpBytes": 50236,
+    "pixelsIdentical": true
+  },
+  {
+    "file": "04-day.webp",
+    "pngBytes": 132991,
+    "webpBytes": 49084,
+    "pixelsIdentical": true
+  },
+  {
+    "file": "05-comparison.webp",
+    "pngBytes": 123764,
+    "webpBytes": 43140,
+    "pixelsIdentical": true
+  },
+  {
+    "file": "06-differences.webp",
+    "pngBytes": 131021,
+    "webpBytes": 47140,
+    "pixelsIdentical": true
+  },
+  {
+    "file": "07-desktop.webp",
+    "pngBytes": 140745,
+    "webpBytes": 52328,
+    "pixelsIdentical": true
+  },
+  {
+    "file": "08-list.webp",
+    "pngBytes": 128541,
+    "webpBytes": 44974,
+    "pixelsIdentical": true
+  },
+  {
+    "file": "09-task-basic.webp",
+    "pngBytes": 147683,
+    "webpBytes": 52742,
+    "pixelsIdentical": true
+  },
+  {
+    "file": "10-task-load.webp",
+    "pngBytes": 125722,
+    "webpBytes": 43212,
+    "pixelsIdentical": true
+  },
+  {
+    "file": "11-task-allocation.webp",
+    "pngBytes": 128552,
+    "webpBytes": 44908,
+    "pixelsIdentical": true
+  },
+  {
+    "file": "12-task-details.webp",
+    "pngBytes": 139354,
+    "webpBytes": 47850,
+    "pixelsIdentical": true
+  },
+  {
+    "file": "13-project.webp",
+    "pngBytes": 142026,
+    "webpBytes": 49318,
+    "pixelsIdentical": true
+  },
+  {
+    "file": "14-optimization.webp",
+    "pngBytes": 107114,
+    "webpBytes": 39910,
+    "pixelsIdentical": true
+  },
+  {
+    "file": "15-settings.webp",
+    "pngBytes": 132835,
+    "webpBytes": 46212,
+    "pixelsIdentical": true
+  },
+  {
+    "file": "16-calendar-settings.webp",
+    "pngBytes": 84356,
+    "webpBytes": 29752,
+    "pixelsIdentical": true
+  },
+  {
+    "file": "17-capacity.webp",
+    "pngBytes": 139774,
+    "webpBytes": 47454,
+    "pixelsIdentical": true
+  },
+  {
+    "file": "18-presets.webp",
+    "pngBytes": 134889,
+    "webpBytes": 43168,
+    "pixelsIdentical": true
+  },
+  {
+    "file": "19-preset-editor.webp",
+    "pngBytes": 102539,
+    "webpBytes": 36872,
+    "pixelsIdentical": true
+  },
+  {
+    "file": "20-storage-browser.webp",
+    "pngBytes": 120850,
+    "webpBytes": 43860,
+    "pixelsIdentical": true
+  },
+  {
+    "file": "21-storage-file.webp",
+    "pngBytes": 145756,
+    "webpBytes": 48774,
+    "pixelsIdentical": true
+  },
+  {
+    "file": "22-load-confirm.webp",
+    "pngBytes": 112319,
+    "webpBytes": 41004,
+    "pixelsIdentical": true
+  },
+  {
+    "file": "23-error.webp",
+    "pngBytes": 85709,
+    "webpBytes": 31716,
+    "pixelsIdentical": true
+  },
+  {
+    "file": "24-adopt-confirm.webp",
+    "pngBytes": 97787,
+    "webpBytes": 36508,
+    "pixelsIdentical": true
+  },
+  {
+    "file": "25-warning.webp",
+    "pngBytes": 130930,
+    "webpBytes": 46888,
+    "pixelsIdentical": true
+  }
+]
