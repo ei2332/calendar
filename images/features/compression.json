@@ -1,152 +1,152 @@
 [
   {
     "file": "01-calendar.webp",
-    "pngBytes": 132582,
-    "webpBytes": 48434,
+    "pngBytes": 132018,
+    "webpBytes": 48170,
     "pixelsIdentical": true
   },
   {
     "file": "02-menu.webp",
-    "pngBytes": 134813,
-    "webpBytes": 48560,
+    "pngBytes": 134241,
+    "webpBytes": 48162,
     "pixelsIdentical": true
   },
   {
     "file": "03-scenes.webp",
-    "pngBytes": 135492,
-    "webpBytes": 50236,
+    "pngBytes": 134912,
+    "webpBytes": 49830,
     "pixelsIdentical": true
   },
   {
     "file": "04-day.webp",
-    "pngBytes": 132991,
-    "webpBytes": 49084,
+    "pngBytes": 132423,
+    "webpBytes": 48880,
     "pixelsIdentical": true
   },
   {
     "file": "05-comparison.webp",
-    "pngBytes": 123764,
-    "webpBytes": 43140,
+    "pngBytes": 123176,
+    "webpBytes": 42978,
     "pixelsIdentical": true
   },
   {
     "file": "06-differences.webp",
-    "pngBytes": 131021,
-    "webpBytes": 47140,
+    "pngBytes": 130437,
+    "webpBytes": 46816,
     "pixelsIdentical": true
   },
   {
     "file": "07-desktop.webp",
-    "pngBytes": 140745,
-    "webpBytes": 52328,
+    "pngBytes": 140149,
+    "webpBytes": 51996,
     "pixelsIdentical": true
   },
   {
     "file": "08-list.webp",
-    "pngBytes": 128541,
-    "webpBytes": 44974,
+    "pngBytes": 127942,
+    "webpBytes": 44702,
     "pixelsIdentical": true
   },
   {
     "file": "09-task-basic.webp",
-    "pngBytes": 147683,
-    "webpBytes": 52742,
+    "pngBytes": 147067,
+    "webpBytes": 52504,
     "pixelsIdentical": true
   },
   {
     "file": "10-task-load.webp",
-    "pngBytes": 125722,
-    "webpBytes": 43212,
+    "pngBytes": 125140,
+    "webpBytes": 42942,
     "pixelsIdentical": true
   },
   {
     "file": "11-task-allocation.webp",
-    "pngBytes": 128552,
-    "webpBytes": 44908,
+    "pngBytes": 127935,
+    "webpBytes": 44624,
     "pixelsIdentical": true
   },
   {
     "file": "12-task-details.webp",
-    "pngBytes": 139354,
-    "webpBytes": 47850,
+    "pngBytes": 138747,
+    "webpBytes": 47540,
     "pixelsIdentical": true
   },
   {
     "file": "13-project.webp",
-    "pngBytes": 142026,
-    "webpBytes": 49318,
+    "pngBytes": 141407,
+    "webpBytes": 48750,
     "pixelsIdentical": true
   },
   {
     "file": "14-optimization.webp",
-    "pngBytes": 107114,
-    "webpBytes": 39910,
+    "pngBytes": 106524,
+    "webpBytes": 39612,
     "pixelsIdentical": true
   },
   {
     "file": "15-settings.webp",
-    "pngBytes": 132835,
-    "webpBytes": 46212,
+    "pngBytes": 132235,
+    "webpBytes": 45972,
     "pixelsIdentical": true
   },
   {
     "file": "16-calendar-settings.webp",
-    "pngBytes": 84356,
-    "webpBytes": 29752,
+    "pngBytes": 83817,
+    "webpBytes": 29802,
     "pixelsIdentical": true
   },
   {
     "file": "17-capacity.webp",
-    "pngBytes": 139774,
-    "webpBytes": 47454,
+    "pngBytes": 139163,
+    "webpBytes": 47088,
     "pixelsIdentical": true
   },
   {
     "file": "18-presets.webp",
-    "pngBytes": 134889,
-    "webpBytes": 43168,
+    "pngBytes": 134337,
+    "webpBytes": 42928,
     "pixelsIdentical": true
   },
   {
     "file": "19-preset-editor.webp",
-    "pngBytes": 102539,
-    "webpBytes": 36872,
+    "pngBytes": 101989,
+    "webpBytes": 36286,
     "pixelsIdentical": true
   },
   {
     "file": "20-storage-browser.webp",
-    "pngBytes": 120850,
-    "webpBytes": 43860,
+    "pngBytes": 120267,
+    "webpBytes": 43678,
     "pixelsIdentical": true
   },
   {
     "file": "21-storage-file.webp",
-    "pngBytes": 145756,
-    "webpBytes": 48774,
+    "pngBytes": 145185,
+    "webpBytes": 48524,
     "pixelsIdentical": true
   },
   {
     "file": "22-load-confirm.webp",
-    "pngBytes": 112319,
-    "webpBytes": 41004,
+    "pngBytes": 111700,
+    "webpBytes": 40698,
     "pixelsIdentical": true
   },
   {
     "file": "23-error.webp",
-    "pngBytes": 85709,
-    "webpBytes": 31716,
+    "pngBytes": 85189,
+    "webpBytes": 31418,
     "pixelsIdentical": true
   },
   {
     "file": "24-adopt-confirm.webp",
-    "pngBytes": 97787,
-    "webpBytes": 36508,
+    "pngBytes": 97180,
+    "webpBytes": 36390,
     "pixelsIdentical": true
   },
   {
     "file": "25-warning.webp",
-    "pngBytes": 130930,
-    "webpBytes": 46888,
+    "pngBytes": 130344,
+    "webpBytes": 46698,
     "pixelsIdentical": true
   }
 ]

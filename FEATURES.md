@@ -1,4 +1,4 @@
-# カレンダーアプリ(仮) 機能詳細
+# カレンダーアプリ 機能詳細
 
 https://calendar-dsr.pages.dev/
 
