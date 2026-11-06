@@ -10,6 +10,7 @@
 <!-- - @ユーザー名 — 不具合の報告、操作性に関する指摘および改善提案 -->
 - @[arm203](https://github.com/ayumu203) — ドキュメントレビューおよび改善提案
 - @[Kampekin](https://github.com/Kampekin) — レビューおよびデバッグとその報告
+- @[aya-0p](https://github.com/aya-0p) — デバッグとその報告
 - @[ITソルーション室](https://wwp.shizuoka.ac.jp/its/) — レビュー等の協力  
 - @[SZPP](https://szpp-dev-team.github.io/) — レビュー等の協力  
 いただいた報告と指摘は、アプリおよびドキュメントの品質向上に大きく役立ちました。ご協力に心より御礼申し上げます。
